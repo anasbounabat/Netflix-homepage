@@ -1,0 +1,37 @@
+🎬 Clone de la page Netflix
+
+Un clone simple de la page d'accueil de Netflix créé avec HTML, CSS et JavaScript.
+
+📱 Fonctionnalités
+🎥 Carrousel d'images avec navigation (précédent / suivant).
+🖥️ Design responsive pour bureau, tablette et mobile.
+🔄 Animations et transitions pour une expérience fluide.
+🚀 Installation
+
+Clone ce projet :
+
+bash
+Copier le code
+git clone https://github.com/anasbounabat/netflix.git
+Ouvre index.html dans ton navigateur pour voir le site en action.
+
+🗂 Structure
+
+Netflix/
+├── index.html        # Fichier HTML
+├── style.css         # CSS
+├── script.js         # JavaScript
+├── images            # Dossier contenant les images
+└── README.md         # Ce fichier
+
+
+🛠️ Technologies
+
+HTML : Structure du site.
+CSS : Mise en page et animations.
+JS : Interactions et carrousel.
+✨ À venir
+💨 Amélioration du design et des animations.
+
+👨‍💻 Auteur
+Anas Bounabat - Développeur
